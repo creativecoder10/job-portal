@@ -1,0 +1,10 @@
+.requirementsContainer {
+  display: flex;
+  align-items: center;
+}
+
+.requirements {
+  display: flex;
+  flex-direction: column;
+  padding: 0 1rem;
+}

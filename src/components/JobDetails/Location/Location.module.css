@@ -1,0 +1,15 @@
+.locationContainer {
+  display: flex;
+  align-items: center;
+}
+
+.location {
+  display: flex;
+  flex-direction: column;
+  padding: 0 1rem;
+}
+
+.miles {
+  font-size: .75rem;
+  padding: .5rem 0;
+}

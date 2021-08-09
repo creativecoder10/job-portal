@@ -1,0 +1,16 @@
+.shiftsContainer {
+  display: flex;
+  align-items: center;
+}
+
+.shifts {
+  display: flex;
+  flex-direction: column;
+  padding: 0 1rem;
+  height: 10rem;
+  overflow: auto;
+}
+
+.shifts span {
+  padding: .5rem 0;
+}

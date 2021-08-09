@@ -1,0 +1,33 @@
+.navBar {
+  background: black;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 6vh;
+}
+
+.navSection {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 6vh;
+  padding: 1rem;
+}
+
+.linkNoStyle {
+  text-decoration: none;
+  color: white;
+  text-align: left;
+  padding: 0;
+  border: none;
+  cursor: pointer;
+}
+
+.navIcon, .title {
+  font-size: 1.5rem;
+}
+
+.navIcon i {
+  padding: 0 .5rem;
+}
